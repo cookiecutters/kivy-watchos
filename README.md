@@ -1,4 +1,6 @@
-# Kivy for iOS
+# Kivy for watchOS
+
+Fork for watchOS support
 
 [![kivy-ios](https://github.com/kivy/kivy-ios/workflows/kivy-ios/badge.svg)](https://github.com/kivy/kivy-ios/actions?query=workflow%3Akivy-ios)
 [![PyPI version](https://badge.fury.io/py/kivy-ios.svg)](https://badge.fury.io/py/kivy-ios)
